@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\UIProject\DAL\bin\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\UIProject\DAL\bin\Debug\DAL.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\UIProject\DAL\bin\Debug\ClassLibrary1.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\UIProject\DAL\bin\Debug\ClassLibrary1.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\UIProject\DAL\obj\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\UIProject\DAL\obj\Debug\DAL.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\UIProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\UIProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\UIProject\DAL\obj\Debug\DAL.csproj.CopyComplete
